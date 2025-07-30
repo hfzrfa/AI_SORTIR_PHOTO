@@ -1,4 +1,3 @@
-Here's a clean and well-structured version of the README for your GitHub repository:
 
 ---
 
